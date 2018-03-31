@@ -1,5 +1,6 @@
 !vendor/vendor.json
 bin
+.vscode
 debug
 test-skel
 .DS_Store
