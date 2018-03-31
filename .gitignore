@@ -1,0 +1,12 @@
+!vendor/vendor.json
+bin
+debug
+test-skel
+.DS_Store
+docs.go
+pkg
+swagger.json
+config.yaml
+doc/swagger.json
+main
+debug
